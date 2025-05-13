@@ -5,7 +5,7 @@
 ## 🧠 About Me
 
 - • Turning ideas into backend apps with clean code.
-- • Currently building **DevTrack** – a self-learning roadmap app for developers.
+- • Currently building **DevTracker** – a self-learning roadmap app for developers.
 - • Learning by doing – one project at a time.
 - • Interested in Backend.c
 - • Based in Israel, open to student roles and internships.
