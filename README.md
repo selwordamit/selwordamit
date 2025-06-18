@@ -4,11 +4,10 @@
 
 ## 🧠 About Me
 
-- • Turning ideas into backend apps with clean code.
-- • Currently building **DevTracker** – a self-learning roadmap app for developers.
-- • Learning by doing – one project at a time.
-- • Interested in Backend.c
-- • Based in Israel, open to student roles and internships.
+-  Turning ideas into backend apps with clean code.
+-  Learning by doing – one project at a time.
+-  Interested in Backend
+-  Based in Israel, open to student roles and internships.
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +24,7 @@
  Git |  Docker |  Postman |  Swagger |  Gradle |  IntelliJ
 
 **Cloud & DevOps:**  
- AWS (basics) |  CI/CD (learning)
+ AWS  |  CI/CD (learning)
 
 ## 📌 Projects
 
