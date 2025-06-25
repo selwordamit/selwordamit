@@ -26,12 +26,6 @@
 **Cloud & DevOps:**  
  AWS  |  CI/CD (learning)
 
-## 📌 Projects
-
-- 🎯 **DevTrack**  
-  A productivity tool for self-taught developers.  
-  Built with Spring Boot + JWT Auth + PostgreSQL + Docker.
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amit-or/)
